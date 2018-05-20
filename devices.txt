@@ -1,0 +1,8 @@
+XC008|Blood Glucose Meter|Ibgstar|This device checks blood glucose levels instantly.|5
+TW001|Smart Brand|Samsung|A bracelet for monitoring sleep patterns and body functions.|5
+SX003|Uri Sense|NA Health|Remote urine analysis.|5
+GG013|Smart Dispenser|Samsung|IoT based drug dispenser.|10
+KL012|Nekoime|Nekiproizvodjac|Neki bezveze opis.|0
+KL007|Nekoime|Nekiproizvodjac|Neki opis bezveze.|0
+MS666|Nekoime|Nekiproizv0Dac|N3k1 0opius|6
+SF989|Neko Ime Uredjaja|Ime Proizvodjaca|Neki opis manji od 50 karaktera|4
